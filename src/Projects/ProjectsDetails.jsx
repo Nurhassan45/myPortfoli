@@ -18,7 +18,7 @@ const projectData = {
     name: "HubbyHub",
     tech: ["React", "Firebase", "React Router", "Tailwind", "Vite", "Framer Motion"],
     description: "HobbyHub connects people through shared hobbies. Whether you're into photography, hiking, gaming, or crafting — HobbyHub makes it easy to build communities.",
-    live: "https://assignment10-aa06d.web.app/",
+    live: "https://dapper-entremet-e6dd92.netlify.app/",
     github: "https://github.com/Nurhassan45/HubbyHub_Client_Side",
     challenges: "Managing real-time stock updates during high traffic was challenging.",
     improvements: "Integrate payment gateway and customer reviews.",
